@@ -1,1 +1,2 @@
-# ML-Lab
+# ML Lab
+Weekly assignments.
